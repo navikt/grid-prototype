@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/grid-prototype/static/css/main.5d1541ac.chunk.css",
+    "main.css": "/grid-prototype/static/css/main.155d6ab9.chunk.css",
     "main.js": "/grid-prototype/static/js/main.19afcc2c.chunk.js",
     "main.js.map": "/grid-prototype/static/js/main.19afcc2c.chunk.js.map",
     "runtime-main.js": "/grid-prototype/static/js/runtime-main.98a4f1dd.js",
@@ -10,7 +10,7 @@
     "static/js/2.6edac069.chunk.js.map": "/grid-prototype/static/js/2.6edac069.chunk.js.map",
     "index.html": "/grid-prototype/index.html",
     "static/css/2.679831fc.chunk.css.map": "/grid-prototype/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.5d1541ac.chunk.css.map": "/grid-prototype/static/css/main.5d1541ac.chunk.css.map",
+    "static/css/main.155d6ab9.chunk.css.map": "/grid-prototype/static/css/main.155d6ab9.chunk.css.map",
     "static/js/2.6edac069.chunk.js.LICENSE.txt": "/grid-prototype/static/js/2.6edac069.chunk.js.LICENSE.txt",
     "static/media/index.css": "/grid-prototype/static/media/right-arrow.069325b8.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.98a4f1dd.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.6edac069.chunk.js",
-    "static/css/main.5d1541ac.chunk.css",
+    "static/css/main.155d6ab9.chunk.css",
     "static/js/main.19afcc2c.chunk.js"
   ]
 }
