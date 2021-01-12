@@ -131,7 +131,7 @@ input[type='radio'] {
   }
 }
 
-@media (min-width: 549px) {
+@media (min-width: 649px) {
   .page-wrapper.two .content-wrapper,
   .page-wrapper.three .content-wrapper {
     grid-template-columns: 2fr 1fr;
