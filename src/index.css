@@ -90,10 +90,7 @@ input[type='radio'] {
   margin: 0 auto;
 }
 
-.page-wrapper.one {
-  max-width: 648px;
-}
-
+.page-wrapper.one,
 .page-wrapper.two {
   max-width: 960px;
 }
